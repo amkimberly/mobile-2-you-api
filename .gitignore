@@ -24,6 +24,7 @@
 /tmp/storage/*
 !/tmp/storage/
 !/tmp/storage/.keep
+/config/initializers/db_credentials.rb
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
